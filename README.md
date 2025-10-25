@@ -35,5 +35,5 @@ The dataset was downloaded from [Kaggle](https://www.kaggle.com/datasets/ahmadra
 - ***Frequency of Purchases***– How often the customer makes purchases (e.g., Weekly, Annually)  
 
 ## Results
-View the Power BI project visualizations here ➡️ **[ShoppingBehavior.pdf](https://github.com/balogberni/Power-BI-Shopping-Behavior/blob/main/ShoppingBehavior.pdf)**   
-Please note that this version is in PDF format, so interactive features are not available. If you have Power BI Desktop installed and would like to explore the interactive version of the project, you can download the **.pbix file** from the main branch.
+You can scroll through the Power BI project visualizations here ➡️ **[ShoppingBehavior.pdf](https://github.com/balogberni/Power-BI-Shopping-Behavior/blob/main/ShoppingBehavior.pdf)**   
+❗Please note that this version is in PDF format, so interactive features are not available, it’s intended for a quick overview only. If you have **Power BI Desktop** installed and would like to explore the interactive dashboard, you can download the **.pbix file** from the main branch.
