@@ -13,7 +13,7 @@ Sales and Product Management
 - Develop customer segmentation strategies
 
 ## Dataset 🗒️
-The dataset was downloaded from [Kaggle](https://www.kaggle.com/datasets/ahmadrazakashif/shopping-behavior-dataset/data), then examined for missing values and preprocessed using Python.  
+The dataset was downloaded from [Kaggle](https://www.kaggle.com/datasets/ahmadrazakashif/shopping-behavior-dataset/data), then examined for missing values and preprocessed using DAX language.  
 
 - ***Customer ID*** – Unique identifier for each customer  
 - ***Age*** – Age of the customer  
